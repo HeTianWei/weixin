@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundColor":"#000000",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#363636",
+    "navigationBarTitleText": "石头剪刀布",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
